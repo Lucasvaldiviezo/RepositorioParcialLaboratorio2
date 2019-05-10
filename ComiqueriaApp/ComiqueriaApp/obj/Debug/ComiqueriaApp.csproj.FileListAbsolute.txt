@@ -1,0 +1,79 @@
+P:\Users\B048201\Desktop\ComiqueriaApp\ComiqueriaApp\bin\Debug\ComiqueriaApp.exe.config
+P:\Users\B048201\Desktop\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.csprojResolveAssemblyReference.cache
+P:\Users\B048201\Desktop\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.Properties.Resources.resources
+P:\Users\B048201\Desktop\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.csproj.GenerateResource.Cache
+P:\Users\B048201\Desktop\ComiqueriaApp\ComiqueriaApp\bin\Debug\ComiqueriaApp.exe
+P:\Users\B048201\Desktop\ComiqueriaApp\ComiqueriaApp\bin\Debug\ComiqueriaApp.pdb
+P:\Users\B048201\Desktop\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.PrincipalForm.resources
+P:\Users\B048201\Desktop\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.exe
+P:\Users\B048201\Desktop\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.pdb
+C:\Users\mcerizza\Desktop\ExamBuilder\ComiqueriaApp\ComiqueriaApp\bin\Debug\ComiqueriaApp.exe.config
+C:\Users\mcerizza\Desktop\ExamBuilder\ComiqueriaApp\ComiqueriaApp\bin\Debug\ComiqueriaApp.exe
+C:\Users\mcerizza\Desktop\ExamBuilder\ComiqueriaApp\ComiqueriaApp\bin\Debug\ComiqueriaApp.pdb
+C:\Users\mcerizza\Desktop\ExamBuilder\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.csprojAssemblyReference.cache
+C:\Users\mcerizza\Desktop\ExamBuilder\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.PrincipalForm.resources
+C:\Users\mcerizza\Desktop\ExamBuilder\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.Properties.Resources.resources
+C:\Users\mcerizza\Desktop\ExamBuilder\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.csproj.GenerateResource.cache
+C:\Users\mcerizza\Desktop\ExamBuilder\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.csproj.CoreCompileInputs.cache
+C:\Users\mcerizza\Desktop\ExamBuilder\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.exe
+C:\Users\mcerizza\Desktop\ExamBuilder\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.pdb
+C:\Users\mcerizza\Desktop\ExamBuilder\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.AltaProductoForm.resources
+C:\Users\mcerizza\Desktop\ExamBuilder\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.VentasForm.resources
+C:\Users\mcerizza\Desktop\ExamBuilder\ComiqueriaApp\ComiqueriaApp\bin\Debug\ComiqueriaLogic.dll
+C:\Users\mcerizza\Desktop\ExamBuilder\ComiqueriaApp\ComiqueriaApp\bin\Debug\ComiqueriaLogic.pdb
+C:\Users\mcerizza\Desktop\ExamBuilder\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.csproj.CopyComplete
+F:\Temporal\ExamBuilder\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.csprojAssemblyReference.cache
+F:\Temporal\ExamBuilder\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.PrincipalForm.resources
+F:\Temporal\ExamBuilder\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.Properties.Resources.resources
+F:\Temporal\ExamBuilder\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.VentasForm.resources
+F:\Temporal\ExamBuilder\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.csproj.GenerateResource.cache
+F:\Temporal\ExamBuilder\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.csproj.CoreCompileInputs.cache
+F:\Temporal\ExamBuilder\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.exe
+F:\Temporal\ExamBuilder\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.pdb
+F:\Temporal\ExamBuilder\ComiqueriaApp\ComiqueriaApp\bin\Debug\ComiqueriaApp.exe.config
+F:\Temporal\ExamBuilder\ComiqueriaApp\ComiqueriaApp\bin\Debug\ComiqueriaApp.exe
+F:\Temporal\ExamBuilder\ComiqueriaApp\ComiqueriaApp\bin\Debug\ComiqueriaApp.pdb
+F:\Temporal\ExamBuilder\ComiqueriaApp\ComiqueriaApp\bin\Debug\ComiqueriaLogic.dll
+F:\Temporal\ExamBuilder\ComiqueriaApp\ComiqueriaApp\bin\Debug\ComiqueriaLogic.pdb
+F:\Temporal\ExamBuilder\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.csproj.CopyComplete
+C:\Users\Kima\Desktop\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.csprojAssemblyReference.cache
+C:\Users\Kima\Desktop\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.PrincipalForm.resources
+C:\Users\Kima\Desktop\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.Properties.Resources.resources
+C:\Users\Kima\Desktop\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.csproj.GenerateResource.cache
+C:\Users\Kima\Desktop\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.csproj.CoreCompileInputs.cache
+C:\Users\Kima\Desktop\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.exe
+C:\Users\Kima\Desktop\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.pdb
+C:\Users\Kima\Desktop\ComiqueriaApp\ComiqueriaApp\bin\Debug\ComiqueriaApp.exe.config
+C:\Users\Kima\Desktop\ComiqueriaApp\ComiqueriaApp\bin\Debug\ComiqueriaApp.exe
+C:\Users\Kima\Desktop\ComiqueriaApp\ComiqueriaApp\bin\Debug\ComiqueriaApp.pdb
+C:\Users\Kima\Desktop\ComiqueriaApp\ComiqueriaApp\bin\Debug\ComiqueriaLogic.dll
+C:\Users\Kima\Desktop\ComiqueriaApp\ComiqueriaApp\bin\Debug\ComiqueriaLogic.pdb
+C:\Users\Kima\Desktop\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.csproj.CopyComplete
+D:\Parcial 1 Valdiviezo\20190509 - ComiqueriaApp\ComiqueriaApp\ComiqueriaApp\bin\Debug\ComiqueriaApp.exe.config
+D:\Parcial 1 Valdiviezo\20190509 - ComiqueriaApp\ComiqueriaApp\ComiqueriaApp\bin\Debug\ComiqueriaApp.exe
+D:\Parcial 1 Valdiviezo\20190509 - ComiqueriaApp\ComiqueriaApp\ComiqueriaApp\bin\Debug\ComiqueriaApp.pdb
+D:\Parcial 1 Valdiviezo\20190509 - ComiqueriaApp\ComiqueriaApp\ComiqueriaApp\bin\Debug\ComqueriaLogic.dll
+D:\Parcial 1 Valdiviezo\20190509 - ComiqueriaApp\ComiqueriaApp\ComiqueriaApp\bin\Debug\ComqueriaLogic.pdb
+D:\Parcial 1 Valdiviezo\20190509 - ComiqueriaApp\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.csprojAssemblyReference.cache
+D:\Parcial 1 Valdiviezo\20190509 - ComiqueriaApp\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.PrincipalForm.resources
+D:\Parcial 1 Valdiviezo\20190509 - ComiqueriaApp\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.Properties.Resources.resources
+D:\Parcial 1 Valdiviezo\20190509 - ComiqueriaApp\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.VentasForm.resources
+D:\Parcial 1 Valdiviezo\20190509 - ComiqueriaApp\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.csproj.GenerateResource.cache
+D:\Parcial 1 Valdiviezo\20190509 - ComiqueriaApp\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.csproj.CoreCompileInputs.cache
+D:\Parcial 1 Valdiviezo\20190509 - ComiqueriaApp\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.csproj.CopyComplete
+D:\Parcial 1 Valdiviezo\20190509 - ComiqueriaApp\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.exe
+D:\Parcial 1 Valdiviezo\20190509 - ComiqueriaApp\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.pdb
+C:\Users\alumno\Desktop\Valdiviezo.Lucas.2C\ComiqueriaApp\ComiqueriaApp\bin\Debug\ComiqueriaApp.exe.config
+C:\Users\alumno\Desktop\Valdiviezo.Lucas.2C\ComiqueriaApp\ComiqueriaApp\bin\Debug\ComiqueriaApp.exe
+C:\Users\alumno\Desktop\Valdiviezo.Lucas.2C\ComiqueriaApp\ComiqueriaApp\bin\Debug\ComiqueriaApp.pdb
+C:\Users\alumno\Desktop\Valdiviezo.Lucas.2C\ComiqueriaApp\ComiqueriaApp\bin\Debug\ComqueriaLogic.dll
+C:\Users\alumno\Desktop\Valdiviezo.Lucas.2C\ComiqueriaApp\ComiqueriaApp\bin\Debug\ComqueriaLogic.pdb
+C:\Users\alumno\Desktop\Valdiviezo.Lucas.2C\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.csprojAssemblyReference.cache
+C:\Users\alumno\Desktop\Valdiviezo.Lucas.2C\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.PrincipalForm.resources
+C:\Users\alumno\Desktop\Valdiviezo.Lucas.2C\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.Properties.Resources.resources
+C:\Users\alumno\Desktop\Valdiviezo.Lucas.2C\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.VentasForm.resources
+C:\Users\alumno\Desktop\Valdiviezo.Lucas.2C\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.csproj.GenerateResource.cache
+C:\Users\alumno\Desktop\Valdiviezo.Lucas.2C\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\Valdiviezo.Lucas.2C\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.csproj.CopyComplete
+C:\Users\alumno\Desktop\Valdiviezo.Lucas.2C\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.exe
+C:\Users\alumno\Desktop\Valdiviezo.Lucas.2C\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.pdb

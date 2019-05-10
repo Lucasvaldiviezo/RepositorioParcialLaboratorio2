@@ -1,0 +1,6 @@
+D:\Parcial 1 Valdiviezo\20190509 - ComiqueriaApp\ComiqueriaApp\ComqueriaLogic\bin\Debug\ComqueriaLogic.dll
+D:\Parcial 1 Valdiviezo\20190509 - ComiqueriaApp\ComiqueriaApp\ComqueriaLogic\bin\Debug\ComqueriaLogic.pdb
+D:\Parcial 1 Valdiviezo\20190509 - ComiqueriaApp\ComiqueriaApp\ComqueriaLogic\obj\Debug\ComiqueriaLogic.csprojAssemblyReference.cache
+D:\Parcial 1 Valdiviezo\20190509 - ComiqueriaApp\ComiqueriaApp\ComqueriaLogic\obj\Debug\ComiqueriaLogic.csproj.CoreCompileInputs.cache
+D:\Parcial 1 Valdiviezo\20190509 - ComiqueriaApp\ComiqueriaApp\ComqueriaLogic\obj\Debug\ComqueriaLogic.dll
+D:\Parcial 1 Valdiviezo\20190509 - ComiqueriaApp\ComiqueriaApp\ComqueriaLogic\obj\Debug\ComqueriaLogic.pdb
