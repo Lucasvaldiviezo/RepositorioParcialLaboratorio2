@@ -24,6 +24,8 @@ namespace ComiqueriaApp
         {
             this.productoActual = productoActual;
             this.comiqueriaActual = comiqueriaActual;
+            lblDescripcion.Text = productoActual.Descripcion;
+            lblNumeroPrecio.Text = productoActual.Precio.ToString();
         }
 
 
@@ -38,9 +40,5 @@ namespace ComiqueriaApp
             this.Close();
         }
 
-        private void lblDescripcion_Click(object sender, EventArgs e)
-        {
-            
-        }
     }
 }
