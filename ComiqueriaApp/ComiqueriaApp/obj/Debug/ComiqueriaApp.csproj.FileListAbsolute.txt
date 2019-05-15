@@ -91,3 +91,17 @@ C:\Users\Usuario\Desktop\RepositorioParcialLaboratorio2\ComiqueriaApp\Comiqueria
 C:\Users\Usuario\Desktop\RepositorioParcialLaboratorio2\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.csproj.CopyComplete
 C:\Users\Usuario\Desktop\RepositorioParcialLaboratorio2\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.exe
 C:\Users\Usuario\Desktop\RepositorioParcialLaboratorio2\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.pdb
+D:\RepositorioParcialLaboratorio2\ComiqueriaApp\ComiqueriaApp\bin\Debug\ComiqueriaApp.exe.config
+D:\RepositorioParcialLaboratorio2\ComiqueriaApp\ComiqueriaApp\bin\Debug\ComiqueriaApp.exe
+D:\RepositorioParcialLaboratorio2\ComiqueriaApp\ComiqueriaApp\bin\Debug\ComiqueriaApp.pdb
+D:\RepositorioParcialLaboratorio2\ComiqueriaApp\ComiqueriaApp\bin\Debug\ComqueriaLogic.dll
+D:\RepositorioParcialLaboratorio2\ComiqueriaApp\ComiqueriaApp\bin\Debug\ComqueriaLogic.pdb
+D:\RepositorioParcialLaboratorio2\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.csprojAssemblyReference.cache
+D:\RepositorioParcialLaboratorio2\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.PrincipalForm.resources
+D:\RepositorioParcialLaboratorio2\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.Properties.Resources.resources
+D:\RepositorioParcialLaboratorio2\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.VentasForm.resources
+D:\RepositorioParcialLaboratorio2\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.csproj.GenerateResource.cache
+D:\RepositorioParcialLaboratorio2\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.csproj.CoreCompileInputs.cache
+D:\RepositorioParcialLaboratorio2\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.csproj.CopyComplete
+D:\RepositorioParcialLaboratorio2\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.exe
+D:\RepositorioParcialLaboratorio2\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.pdb

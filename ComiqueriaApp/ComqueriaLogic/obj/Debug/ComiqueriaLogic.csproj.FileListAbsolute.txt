@@ -10,3 +10,9 @@ C:\Users\Usuario\Desktop\RepositorioParcialLaboratorio2\ComiqueriaApp\ComqueriaL
 C:\Users\Usuario\Desktop\RepositorioParcialLaboratorio2\ComiqueriaApp\ComqueriaLogic\obj\Debug\ComiqueriaLogic.csproj.CoreCompileInputs.cache
 C:\Users\Usuario\Desktop\RepositorioParcialLaboratorio2\ComiqueriaApp\ComqueriaLogic\obj\Debug\ComqueriaLogic.dll
 C:\Users\Usuario\Desktop\RepositorioParcialLaboratorio2\ComiqueriaApp\ComqueriaLogic\obj\Debug\ComqueriaLogic.pdb
+D:\RepositorioParcialLaboratorio2\ComiqueriaApp\ComqueriaLogic\bin\Debug\ComqueriaLogic.dll
+D:\RepositorioParcialLaboratorio2\ComiqueriaApp\ComqueriaLogic\bin\Debug\ComqueriaLogic.pdb
+D:\RepositorioParcialLaboratorio2\ComiqueriaApp\ComqueriaLogic\obj\Debug\ComiqueriaLogic.csprojAssemblyReference.cache
+D:\RepositorioParcialLaboratorio2\ComiqueriaApp\ComqueriaLogic\obj\Debug\ComiqueriaLogic.csproj.CoreCompileInputs.cache
+D:\RepositorioParcialLaboratorio2\ComiqueriaApp\ComqueriaLogic\obj\Debug\ComqueriaLogic.dll
+D:\RepositorioParcialLaboratorio2\ComiqueriaApp\ComqueriaLogic\obj\Debug\ComqueriaLogic.pdb

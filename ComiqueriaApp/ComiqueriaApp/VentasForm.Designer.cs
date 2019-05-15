@@ -38,14 +38,6 @@
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDownCantidad)).BeginInit();
             this.SuspendLayout();
             // 
-            // lblDescripcion
-            // 
-            this.lblDescripcion.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblDescripcion.Location = new System.Drawing.Point(30, 21);
-            this.lblDescripcion.Name = "lblDescripcion";
-            this.lblDescripcion.Size = new System.Drawing.Size(288, 37);
-            this.lblDescripcion.TabIndex = 6;
-            // 
             // lblCantidad
             // 
             this.lblCantidad.AutoSize = true;
@@ -132,7 +124,6 @@
             this.Name = "VentasForm";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Nueva Venta";
-            this.Load += new System.EventHandler(this.VentasForm_Load);
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDownCantidad)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
