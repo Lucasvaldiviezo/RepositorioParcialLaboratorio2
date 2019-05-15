@@ -4,3 +4,9 @@ D:\Parcial 1 Valdiviezo\20190509 - ComiqueriaApp\ComiqueriaApp\ComqueriaLogic\ob
 D:\Parcial 1 Valdiviezo\20190509 - ComiqueriaApp\ComiqueriaApp\ComqueriaLogic\obj\Debug\ComiqueriaLogic.csproj.CoreCompileInputs.cache
 D:\Parcial 1 Valdiviezo\20190509 - ComiqueriaApp\ComiqueriaApp\ComqueriaLogic\obj\Debug\ComqueriaLogic.dll
 D:\Parcial 1 Valdiviezo\20190509 - ComiqueriaApp\ComiqueriaApp\ComqueriaLogic\obj\Debug\ComqueriaLogic.pdb
+C:\Users\Usuario\Desktop\RepositorioParcialLaboratorio2\ComiqueriaApp\ComqueriaLogic\bin\Debug\ComqueriaLogic.dll
+C:\Users\Usuario\Desktop\RepositorioParcialLaboratorio2\ComiqueriaApp\ComqueriaLogic\bin\Debug\ComqueriaLogic.pdb
+C:\Users\Usuario\Desktop\RepositorioParcialLaboratorio2\ComiqueriaApp\ComqueriaLogic\obj\Debug\ComiqueriaLogic.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\RepositorioParcialLaboratorio2\ComiqueriaApp\ComqueriaLogic\obj\Debug\ComiqueriaLogic.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\RepositorioParcialLaboratorio2\ComiqueriaApp\ComqueriaLogic\obj\Debug\ComqueriaLogic.dll
+C:\Users\Usuario\Desktop\RepositorioParcialLaboratorio2\ComiqueriaApp\ComqueriaLogic\obj\Debug\ComqueriaLogic.pdb

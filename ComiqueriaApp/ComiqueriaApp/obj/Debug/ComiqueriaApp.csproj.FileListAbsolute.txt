@@ -77,3 +77,17 @@ C:\Users\alumno\Desktop\Valdiviezo.Lucas.2C\ComiqueriaApp\ComiqueriaApp\obj\Debu
 C:\Users\alumno\Desktop\Valdiviezo.Lucas.2C\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.csproj.CopyComplete
 C:\Users\alumno\Desktop\Valdiviezo.Lucas.2C\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.exe
 C:\Users\alumno\Desktop\Valdiviezo.Lucas.2C\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.pdb
+C:\Users\Usuario\Desktop\RepositorioParcialLaboratorio2\ComiqueriaApp\ComiqueriaApp\bin\Debug\ComiqueriaApp.exe.config
+C:\Users\Usuario\Desktop\RepositorioParcialLaboratorio2\ComiqueriaApp\ComiqueriaApp\bin\Debug\ComiqueriaApp.exe
+C:\Users\Usuario\Desktop\RepositorioParcialLaboratorio2\ComiqueriaApp\ComiqueriaApp\bin\Debug\ComiqueriaApp.pdb
+C:\Users\Usuario\Desktop\RepositorioParcialLaboratorio2\ComiqueriaApp\ComiqueriaApp\bin\Debug\ComqueriaLogic.dll
+C:\Users\Usuario\Desktop\RepositorioParcialLaboratorio2\ComiqueriaApp\ComiqueriaApp\bin\Debug\ComqueriaLogic.pdb
+C:\Users\Usuario\Desktop\RepositorioParcialLaboratorio2\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\RepositorioParcialLaboratorio2\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.PrincipalForm.resources
+C:\Users\Usuario\Desktop\RepositorioParcialLaboratorio2\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.Properties.Resources.resources
+C:\Users\Usuario\Desktop\RepositorioParcialLaboratorio2\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.VentasForm.resources
+C:\Users\Usuario\Desktop\RepositorioParcialLaboratorio2\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\RepositorioParcialLaboratorio2\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\RepositorioParcialLaboratorio2\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.csproj.CopyComplete
+C:\Users\Usuario\Desktop\RepositorioParcialLaboratorio2\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.exe
+C:\Users\Usuario\Desktop\RepositorioParcialLaboratorio2\ComiqueriaApp\ComiqueriaApp\obj\Debug\ComiqueriaApp.pdb

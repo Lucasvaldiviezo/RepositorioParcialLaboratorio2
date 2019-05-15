@@ -13,16 +13,24 @@ namespace ComiqueriaApp
 {
     public partial class VentasForm : Form
     {
+        private Producto productoActual;
+        private Comiqueria comiqueriaActual;
         public VentasForm()
         {
             InitializeComponent();
         }
 
+        public VentasForm(Producto productoActual, Comiqueria comiqueriaActual) : this()
+        {
+            this.productoActual = productoActual;
+            this.comiqueriaActual = comiqueriaActual;
+        }
+
 
         private void numericUpDownCantidad_ValueChanged(object sender, EventArgs e)
         {
-            
-            lblNumeroPrecio.Text = numericUpDownCantidad.Value.ToString();
+            double total = (double)numericUpDownCantidad.Value * productoActual.Precio;
+            lblNumeroPrecio.Text = total.ToString();
         }
 
         private void btnCancelar_Click(object sender, EventArgs e)
