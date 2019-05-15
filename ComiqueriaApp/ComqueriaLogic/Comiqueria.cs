@@ -74,7 +74,7 @@ namespace ComiqueriaLogic
         {
             StringBuilder mostrar = new StringBuilder();
 
-            ventas = ventas.OrderBy(v => v.Fecha).ToList();
+            ventas = ventas.OrderBy(venta => venta.Fecha).ToList();
             foreach(Venta venta in ventas)
             {
                 mostrar.AppendLine(venta.ObtenerDescripcionBreve());
