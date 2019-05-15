@@ -132,6 +132,7 @@
             this.Name = "VentasForm";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Nueva Venta";
+            this.Load += new System.EventHandler(this.VentasForm_Load);
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDownCantidad)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();

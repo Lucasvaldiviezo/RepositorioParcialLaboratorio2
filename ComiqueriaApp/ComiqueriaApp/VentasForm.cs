@@ -28,6 +28,10 @@ namespace ComiqueriaApp
             lblNumeroPrecio.Text = productoActual.Precio.ToString();
         }
 
+        private void VentasForm_Load(object sender, EventArgs e)
+        {
+            this.btnVender.DialogResult = System.Windows.Forms.DialogResult.OK;
+        }
 
         private void numericUpDownCantidad_ValueChanged(object sender, EventArgs e)
         {
@@ -46,11 +50,14 @@ namespace ComiqueriaApp
             double stock = productoActual.Stock; 
             if (cantidad <= stock)
             {
-
-            }else
+                comiqueriaActual.Vender(productoActual, (int)cantidad);
+            }
+            else
             {
                 MessageBox.Show("La cantidad que desea comprar supera al stock disponible", "Error de Stock", MessageBoxButtons.OK,MessageBoxIcon.Error);
             }
         }
+
+        
     }
 }
