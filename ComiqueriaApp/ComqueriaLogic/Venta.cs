@@ -45,6 +45,7 @@ namespace ComiqueriaLogic
         {
             double total;
             double ivaCalculado;
+            double retorno;
             total = precioUnidad * cantidad;
             ivaCalculado = total * (porcentajeIva / 100);
             total = total + ivaCalculado;
@@ -55,8 +56,7 @@ namespace ComiqueriaLogic
         public string ObtenerDescripcionBreve()
         {
             StringBuilder mostrar = new StringBuilder();
-            mostrar.AppendFormat("Fecha: {0} - Descripcion: {1} - Precio Final {2}\n", Fecha,producto.Descripcion, precioFinal);
-
+            mostrar.AppendFormat("Fecha: {0} - Descripcion: {1} - Precio Final: ${2}\n", Fecha,producto.Descripcion, precioFinal);
             return mostrar.ToString();
         }
 

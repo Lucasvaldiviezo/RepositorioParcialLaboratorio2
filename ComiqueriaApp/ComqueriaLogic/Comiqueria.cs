@@ -64,6 +64,7 @@ namespace ComiqueriaLogic
         public void Vender(Producto producto, int cantidad)
         {
             Venta nuevaVenta = new Venta(producto, cantidad);
+            ventas.Add(nuevaVenta);
         }
         public void Vender(Producto producto)
         {
@@ -77,7 +78,7 @@ namespace ComiqueriaLogic
             ventas = ventas.OrderBy(venta => venta.Fecha).ToList();
             foreach(Venta venta in ventas)
             {
-                mostrar.AppendLine(venta.ObtenerDescripcionBreve());
+                mostrar.Append(venta.ObtenerDescripcionBreve());
             }
 
 
