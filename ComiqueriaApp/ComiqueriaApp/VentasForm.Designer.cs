@@ -86,6 +86,7 @@
             this.btnVender.TabIndex = 3;
             this.btnVender.Text = "Vender";
             this.btnVender.UseVisualStyleBackColor = true;
+            this.btnVender.Click += new System.EventHandler(this.btnVender_Click);
             // 
             // btnCancelar
             // 

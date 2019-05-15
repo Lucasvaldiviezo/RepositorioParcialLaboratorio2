@@ -57,7 +57,7 @@ namespace ComiqueriaLogic
             mostrar.AppendFormat("Descripción: {0}\n", Descripcion);
             mostrar.AppendFormat("Código: {0}\n", codigo);
             mostrar.AppendFormat("Precio: ${0}\n", Precio);
-            mostrar.AppendFormat("Stock: {0} unidades\n", Precio);
+            mostrar.AppendFormat("Stock: {0} unidades\n", Stock);
 
 
             return mostrar.ToString();

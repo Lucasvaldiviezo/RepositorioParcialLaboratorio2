@@ -40,5 +40,17 @@ namespace ComiqueriaApp
             this.Close();
         }
 
+        private void btnVender_Click(object sender, EventArgs e)
+        {
+            double cantidad = Convert.ToDouble(numericUpDownCantidad.Value);
+            double stock = productoActual.Stock; 
+            if (cantidad <= stock)
+            {
+
+            }else
+            {
+                MessageBox.Show("La cantidad que desea comprar supera al stock disponible", "Error de Stock", MessageBoxButtons.OK,MessageBoxIcon.Error);
+            }
+        }
     }
 }
